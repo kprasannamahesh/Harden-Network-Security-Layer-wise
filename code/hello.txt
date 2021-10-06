@@ -1,0 +1,2 @@
+hello world this is the text file created using pythonThis is a python scripted write.
+This is a python scripted write.This is a python scripted write.This is a python scripted write.
